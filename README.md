@@ -39,9 +39,8 @@ O **coxa-ui** é o design system oficial do Coritiba SAF: um kit de CSS e JS com
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| 🏠 **CoxaHub** | Portal interno que reúne todas as aplicações do clube em um só lugar | FastAPI · React · Docker |
 | 🚪 **PortariaCoxa** | Controle de entrada e saída de visitantes nas unidades (Estádio, CT, Escritório) | Flask · PostgreSQL |
-| 📚 **CoxaFAQ** | Repositório de manuais e documentação interna do clube | Flask · SQLite |
+| 📚 **DocumentaCoxa** | Repositório de manuais e documentação interna do clube | Flask · PostgreSQL |
 | 🔌 **[Coritiba API](https://coritiba-api.vercel.app/)** | API serverless com autenticação Bearer, departamentos e webhooks | Node.js · Vercel · Redis |
 
 <br>
